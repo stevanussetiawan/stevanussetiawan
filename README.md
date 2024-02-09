@@ -3,7 +3,7 @@ stevanussetiawan/stevanussetiawan is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hi, I’m Stevanus Setiawan
+- 👋 Hi there, I’m Stevanus Setiawan
 
 - 🌱 I’m currently learning **Automating the ML lifecycle**
 
