@@ -9,7 +9,7 @@ Data Scientist with a Bachelor's degree in Physics, specializing in Theoretical 
 
 - 🌱 I’m currently learning **Automating the ML lifecycle**
 - 📝 I regularly write articles on [https://medium.com/@stevkarta](https://medium.com/@stevkarta)
-- 💬 Ask me about **Data Science, Mathematics, Deep and Machine Learning**
+- 💬 Ask me about **Data Science, Statistics, Deep and Machine Learning**
 
 ### Connect With me:
 <p align="left">
