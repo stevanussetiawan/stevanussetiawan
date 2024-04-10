@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there I'm Stev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Data Scientist with a Bachelor's degree in Physics, specializing in Theoretical Physics. Leveraging a strong foundation in physics, I bring analytical and problem-solving skills to the field of data science. Proficient in utilizing Falcon API for advanced data analysis and machine learning and deep learning applications. Passionate about extracting meaningful insights from complex datasets to drive informed decision-making. Committed to continuous learning and staying at the forefront of emerging technologies in data science. Open to collaborative opportunities that allow me to apply my expertise and contribute to impactful projects in the field.
+Data Scientist with a Bachelor's degree in Physics, specializing in Theoretical Physics.
 
 - 🌱 I’m currently learning **Automating the ML lifecycle**
 - 📝 Sometimes I write articles on [https://medium.com/@stevkarta](https://medium.com/@stevkarta)
