@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 Data Scientist with a Bachelor's degree in Physics, specializing in Theoretical Physics.
 
-- 🌱 I’m currently learning **Automating the ML lifecycle**
 - 📝 Sometimes I write articles on [https://medium.com/@stevkarta](https://medium.com/@stevkarta)
 - 💬 Ask me about **Data Science, Statistics, Deep and Machine Learning**
 
