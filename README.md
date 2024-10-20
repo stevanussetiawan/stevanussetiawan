@@ -7,9 +7,12 @@ You can click the Preview link to take a look at your changes.
 
 Data Scientist with a Bachelor's degree in Physics, specializing in Theoretical Physics.
 
-- 📝 Sometimes I write articles on [https://medium.com/@stevkarta](https://medium.com/@stevkarta)
-- 💬 Ask me about **Data Science, Statistics, Deep and Machine Learning**
+I’m a **AI Developer** with a Bachelor's degree in Physics, specializing in Theoretical Physics. My expertise lies in applying advanced analytical techniques to solve real-world problems using Data Science, Machine Learning, and Deep Learning.
 
+- 🔬 I enjoy bridging the gap between theory and application, leveraging my physics background to develop cutting-edge AI solutions.
+- 📝 Occasionally, I write about Data Science, AI, and technology on [https://medium.com/@stevkarta](https://medium.com/@stevkarta)
+- 💬 Feel free to reach out if you want to discuss **Data Science, Statistics, or ML/DL models!**
+  
 ### Connect With me:
 <p align="left">
 <a href="https://instagram.com/stev_set" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stev_set" height="30" width="40" /></a>
