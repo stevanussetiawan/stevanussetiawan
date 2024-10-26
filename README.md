@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there I'm Stev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Data Scientist with a Bachelor's degree in Physics, specializing in Theoretical Physics.
-
 I’m a **AI Developer** with a Bachelor's degree in Physics, specializing in Theoretical Physics. My expertise lies in applying advanced analytical techniques to solve real-world problems using Data Science, Machine Learning, and Deep Learning.
 
 - 🔬 I enjoy bridging the gap between theory and application, leveraging my physics background to develop cutting-edge AI solutions.
